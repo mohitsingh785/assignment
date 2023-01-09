@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">assignment</string>
+    <string name="statistics">Statistics</string>
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="top_spending">Top Spending</string>
+    <string name="jan_12_2022">JAN 12,2022</string>
+    <string name="starbucks">StarBucks</string>
+    <string name="jan_16_2022">Jan 16,2022</string>
+    <string name="youtube">Youtube</string>
+    <string name="_11_99">-$ 11.99</string>
+</resources>
